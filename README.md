@@ -1,2 +1,4 @@
 # hello-world
-Learning to create my first repository
+Hi fellow humans!
+I like Truth, Honesty, and Professionalism.
+I also like Minimalism.
